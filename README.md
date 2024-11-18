@@ -46,7 +46,7 @@
 # 🀄 Setup
 ###  1. Download the repo: 
 
-	 git clone [https://github.com/spantheslayer/yt-upload-automation.git](https://github.com/Siddhartha6909/Youtube-Automatiom) && cd yt-upload-automation
+	 git clone https://github.com/Siddhartha6909/Youtube-Automatiom && cd yt-upload-automation
 
 ### 2. Open the `client_secrets.json` file & modify the `client_id` and `client_secret` part with your own oauth2 credentials. 
 > ==if you don't have your oauth2 credentials then follow this otherwise move to step 3.==
